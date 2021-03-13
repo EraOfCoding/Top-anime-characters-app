@@ -1,6 +1,7 @@
 # Top-anime-characters-App
 
 ![alt text](https://github.com/EraOfCoding/Top-anime-characters-app/blob/master/AppImages/Screenshot%202021-03-13%20190753.png?raw=true)
+![alt text](https://github.com/EraOfCoding/Top-anime-characters-app/blob/master/AppImages/Screenshot%202021-03-13%20190809.png?raw=true)
 
 A new Flutter project.
 
