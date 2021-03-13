@@ -1,4 +1,6 @@
-# Top-anime-characters
+# Top-anime-characters-App
+
+![alt text](https://github.com/EraOfCoding/Top-anime-characters-app/)
 
 A new Flutter project.
 
